@@ -2,7 +2,7 @@
 
 This is a minimal Vue.js project bootstrapped with [vue-cli](https://cli.vuejs.org/guide/creating-a-project.html).
 
-The sample app is deployed on Render at https://vue.onrender.com.
+The sample app is deployed on Render at https://helloworld-aunf.onrender.com.
 
 ## Deployment
 
